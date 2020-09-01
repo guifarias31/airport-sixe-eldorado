@@ -670,10 +670,10 @@
 	</SceneryObject>
 	<Airport name="Aeroclube de Eldorado" ident="SIXE" lat="-30.05167183525016" lon="-51.44511011047568" alt="9.50332925774368" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<TaxiName index="0" name=""/>
-		<Runway lat="-30.05026469385450" lon="-51.44361286945331" alt="6.18766083382070" heading="93.38999938964844" length="1600.00000000000000" width="30.00000000000000" patternAltitude="223.41998291015625" surface="{3BADD20B-DB52-4C0A-9693-8079ADEA7178}" transparent="TRUE" number="11" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<Runway lat="-30.05026469385450" lon="-51.44361286945331" alt="6.18766083382070" heading="93.38999938964844" length="1600.00000000000000" width="30.00000000000000" patternAltitude="223.41998291015625" surface="{00000000-0000-0000-0000-000000000000}" transparent="TRUE" number="11" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
-			<RunwayStart end="PRIMARY" lat="-30.05013733636171" lon="-51.44290377945591" alt="6.19091279059649" heading="-101.66519927978516"/>
+			<RunwayStart end="PRIMARY" lat="-30.05013733636171" lon="-51.44290377945591" alt="6.19091279059649" heading="258.33480834960938"/>
 			<RunwayStart end="SECONDARY" lat="-30.05039204750772" lon="-51.44432196119416" alt="6.18440524023026" heading="78.33490753173828"/>
 		</Runway>
 		<Aprons>

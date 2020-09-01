@@ -6,9 +6,14 @@
       "date": 132434085518542441
     },
     {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132434654285025082
+    },
+    {
       "path": "scenery/airport-sixe-eldorado.bgl",
       "size": 13296,
-      "date": 132434654284585930
+      "date": 132434667116481342
     },
     {
       "path": "scenery/AIRPORT-SIXE-POLY.BGL",
