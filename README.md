@@ -1,5 +1,4 @@
-SIXE - Aeroclube de Eldorado do Sul
-Airport for MSFS
+## SIXE - Aeroclube de Eldorado do Sul Airport for MSFS ##
 
 Created by: GuiFarias31
 
