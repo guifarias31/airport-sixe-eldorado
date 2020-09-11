@@ -8,17 +8,52 @@
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132434667116656371
+      "date": 132443270529605729
     },
     {
       "path": "scenery/airport-sixe-eldorado.bgl",
-      "size": 21228,
-      "date": 132435887307568353
+      "size": 19802,
+      "date": 132443294742479989
     },
     {
       "path": "scenery/AIRPORT-SIXE-POLY.BGL",
-      "size": 4422,
-      "date": 132435887307928414
+      "size": 4276,
+      "date": 132443228970098792
+    },
+    {
+      "path": "scenery/modelLib.BGL",
+      "size": 1440248,
+      "date": 132443255802683339
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_1.JPG.DDS",
+      "size": 11064,
+      "date": 132443255801503133
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_1.JPG.DDS.json",
+      "size": 102,
+      "date": 132443255801453124
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_6.JPG.DDS",
+      "size": 43832,
+      "date": 132443261321000566
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_6.JPG.DDS.json",
+      "size": 102,
+      "date": 132443261320990571
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_7.JPG.DDS",
+      "size": 11064,
+      "date": 132443261320725516
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_7.JPG.DDS.json",
+      "size": 102,
+      "date": 132443261320685509
     }
   ]
 }

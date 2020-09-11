@@ -1,0 +1,31 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_apply" : 1,
+                    "export_extras" : 1,
+                    "export_generate_guid" : 1,
+                    "export_texture_dir" : "../texture/",
+                    "export_xml" : 1,
+                    "export_xml_file" : "Hangar1",
+                    "use_selection" : 1
+                }
+            },
+            "name" : "Scene"
+        }
+    ]
+}

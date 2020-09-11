@@ -1,4 +1,4 @@
-<AssetPackage Name="mycompany-airport-sixe-eldorado" Version="0.1.0">
+<AssetPackage Name="mycompany-airport-sixe-eldorado" Version="0.9.3">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
@@ -15,16 +15,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\mycompany-airport-sixe-eldorado\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\mycompany-airport-sixe-eldorado</OutputDir>
+			<AssetDir>PackageDefinitions\mycompany-airport-sixe-eldorado\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\mycompany-airport-sixe-eldorado\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="placeholder-name">
+		<AssetGroup Name="airport-sixe-eldorado">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\data</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
