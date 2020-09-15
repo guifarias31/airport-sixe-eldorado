@@ -2,6 +2,8 @@
 
 Created by: GuiFarias31
 
+Hangar 3D by: [Picada](https://3dwarehouse.sketchup.com/user/0148015134167242350453261/Picada)
+
 This airport is free to use. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
 
 Current version: v0.9.4. Image previews of 0.9.3 here: https://imgur.com/a/hkYSkQx
