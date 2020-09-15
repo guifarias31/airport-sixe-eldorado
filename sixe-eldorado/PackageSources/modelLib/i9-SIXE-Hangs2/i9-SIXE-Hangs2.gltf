@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 42,
+      "type": "VEC3",
+      "min": [
+        0.467,
+        -0.009,
+        -12.284
+      ],
+      "max": [
+        104.612,
+        8.339,
+        15.04
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 42,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 42,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 66,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 0.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "i9_sixe_hangs_2"
+    },
+    {
+      "source": 1,
+      "name": "i9_sixe_hangs_2_lit"
+    }
+  ],
+  "images": [
+    {
+      "uri": "i9_sixe_hangs_2.dds"
+    },
+    {
+      "uri": "i9_sixe_hangs_2_lit.dds"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 264
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 264,
+      "byteLength": 504
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 768,
+      "byteLength": 504
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1272,
+      "byteLength": 336
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1608,
+      "uri": "I9_SIXE_1-I9_SIXE_hangs_2.bin"
+    }
+  ]
+}

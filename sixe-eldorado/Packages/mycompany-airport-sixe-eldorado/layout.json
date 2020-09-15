@@ -8,12 +8,12 @@
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132443270529605729
+      "date": 132446680572414964
     },
     {
       "path": "scenery/airport-sixe-eldorado.bgl",
-      "size": 19802,
-      "date": 132443294742479989
+      "size": 20178,
+      "date": 132446684483562899
     },
     {
       "path": "scenery/AIRPORT-SIXE-POLY.BGL",
@@ -26,12 +26,72 @@
       "date": 132443255802683339
     },
     {
+      "path": "scenery/TEXTURE/TORRE.DDS.DDS",
+      "size": 174888,
+      "date": 132446649138819171
+    },
+    {
+      "path": "scenery/TEXTURE/TORRE.DDS.DDS.json",
+      "size": 102,
+      "date": 132446649138784165
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/texture.JPG.DDS",
+      "size": 65664,
+      "date": 132446665863172740
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE.JPG.DDS.json",
+      "size": 102,
+      "date": 132443255801453124
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/texture_0.JPG.DDS",
+      "size": 65664,
+      "date": 132446665863172740
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_0.JPG.DDS.json",
+      "size": 102,
+      "date": 132443255801453124
+    },
+    {
       "path": "scenery/TEXTURE/UNTITLED/TEXTURE_1.JPG.DDS",
       "size": 11064,
       "date": 132443255801503133
     },
     {
       "path": "scenery/TEXTURE/UNTITLED/TEXTURE_1.JPG.DDS.json",
+      "size": 102,
+      "date": 132443255801453124
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/texture_2.JPG.DDS",
+      "size": 65664,
+      "date": 132446665863172740
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_2.JPG.DDS.json",
+      "size": 102,
+      "date": 132443255801453124
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/texture_3.JPG.DDS",
+      "size": 65664,
+      "date": 132446665863172740
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_3.JPG.DDS.json",
+      "size": 102,
+      "date": 132443255801453124
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/texture_4.JPG.DDS",
+      "size": 65664,
+      "date": 132446665863172740
+    },
+    {
+      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_4.JPG.DDS.json",
       "size": 102,
       "date": 132443255801453124
     },

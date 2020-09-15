@@ -101,7 +101,7 @@
 		<LibraryObject name="{93A24DBD-B0ED-4C0B-AB05-BB910A641855}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Bomba-->
-	<SceneryObject lat="-30.05161005162721" lon="-51.44550877346534" alt="-0.10000000000000" pitch="0.000328" bank="-0.000328" heading="-177.675610" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject lat="-30.05161005162720" lon="-51.44550877346536" alt="-0.09999999349790" pitch="0.000799" bank="-0.000799" heading="-176.024343" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{3ED89649-2446-43B6-8B92-195E3C873393}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Car_Pack_4C-->
@@ -716,9 +716,9 @@
 	<SceneryObject lat="-30.05167648015620" lon="-51.44556285809478" alt="-0.50382283318788" pitch="0.000628" bank="-0.000628" heading="-177.764607" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{A9A8EDA8-A0A2-4391-8313-9DD0A8C340FC}" scale="1.000000"/>
 	</SceneryObject>
-	<!--SceneryObject name: Gen_Hangar04-->
-	<SceneryObject lat="-30.05220974504232" lon="-51.44711313876918" alt="-1.02294502981139" pitch="0.001100" bank="-0.001100" heading="3.426549" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{246AB855-9482-4239-B5EA-541CD0FAA515}" scale="1.200000"/>
+	<!--SceneryObject name: Gen_Airport_Tower01-->
+	<SceneryObject lat="-30.05253112223442" lon="-51.44515589177512" alt="0.00000000000000" pitch="0.000656" bank="-0.000656" heading="-177.161638" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{634B83BB-96A9-453D-8452-938F9804DE4F}" scale="0.600000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar06-->
 	<SceneryObject lat="-30.05214465552053" lon="-51.44758529989610" alt="0.00000000000000" pitch="0.000417" bank="-0.000458" heading="3.216158" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
@@ -824,6 +824,10 @@
 	<SceneryObject lat="-30.05226213266889" lon="-51.44626413456409" alt="-0.50000000000000" pitch="0.001544" bank="-0.001544" heading="-178.379215" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{44707AC7-AF0D-4CFE-A61F-047F895E2D6F}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Hangar1-->
+	<SceneryObject lat="-30.05222190904715" lon="-51.44728829151949" alt="-0.76547386702450" pitch="0.001557" bank="-0.001557" heading="-178.379215" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{44707AC7-AF0D-4CFE-A61F-047F895E2D6F}" scale="1.100000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Hangar3e4-->
 	<SceneryObject lat="-30.05222379417214" lon="-51.44651654262986" alt="-0.45000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{2CAD637E-237F-4B86-B14D-3DB5228E2384}" scale="1.000000"/>
@@ -862,10 +866,6 @@
 	</SceneryObject>
 	<SceneryObject lat="-30.05160941461567" lon="-51.44708639078029" alt="0.00000000000000" pitch="0.000239" bank="-0.000239" heading="-175.976423" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="FlightDesignCT Asobo" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: TorreSIXE-->
-	<SceneryObject lat="-30.05252289440572" lon="-51.44516883660369" alt="-0.30000000000000" pitch="0.001332" bank="-0.001332" heading="-176.736445" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{D0E10544-F520-4231-8E00-AA9B4032CD67}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Traffic_Car01_White-->
 	<SceneryObject lat="-30.05272596450881" lon="-51.44457289730135" alt="0.00000000000000" pitch="0.000184" bank="-0.000184" heading="-177.490853" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
@@ -930,26 +930,22 @@
 	<SceneryObject lat="-30.05267727733053" lon="-51.44623601950371" alt="0.00000000000000" pitch="0.000574" bank="-0.000574" heading="-85.977083" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{7B528ABA-3727-4728-B314-7BBC6F9821A9}" scale="1.000000"/>
 	</SceneryObject>
-	<!--SceneryObject name: windsock_circle-->
-	<SceneryObject lat="-30.05173344790463" lon="-51.44487179830632" alt="0.00000000000000" pitch="0.000697" bank="-0.000697" heading="94.776928" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{2C60F63A-60EF-4F05-8F2F-B47B43A1F63A}" scale="0.530000"/>
-	</SceneryObject>
-	<Rectangle width="600.000000" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="-30.05158292780738" longitude="-51.44030980162654" altitude="6.95785791147500" latitude2="-30.05162795178628" longitude2="-51.44031289951759" altitude2="6.95774659700692">
+	<Rectangle width="600.000000" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="2" latitude="-30.05158292780737" longitude="-51.44030980162654" altitude="6.95785791054368" latitude2="-30.05162795178628" longitude2="-51.44031289951759" altitude2="6.95774659607559">
 		<RunwayDeformation alt="7.000000" ratio="0.000000"/>
 		<RunwayDeformation alt="5.000000" ratio="0.454104"/>
 		<RunwayDeformation alt="7.000000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="180.000000" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05134737491661" longitude="-51.44483111563033" altitude="6.94218654930592" latitude2="-30.05139239892571" longitude2="-51.44483421351592" altitude2="6.94207470025867">
+	<Rectangle width="180.000000" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05134737491231" longitude="-51.44483111563003" altitude="6.94218655023724" latitude2="-30.05139239893000" longitude2="-51.44483421351622" altitude2="6.94207469932735">
 		<RunwayDeformation alt="7.000000" ratio="0.000000"/>
 		<RunwayDeformation alt="5.000000" ratio="0.454104"/>
 		<RunwayDeformation alt="7.000000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="180.000000" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05123037402906" longitude="-51.44704029943306" altitude="6.94136609230191" latitude2="-30.05127539804054" longitude2="-51.44704339731506" altitude2="6.94125387817621">
+	<Rectangle width="180.000000" falloff="2.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05123037402476" longitude="-51.44704029943276" altitude="6.94136609230191" latitude2="-30.05127539804483" longitude2="-51.44704339731535" altitude2="6.94125387910753">
 		<RunwayDeformation alt="7.000000" ratio="0.000000"/>
 		<RunwayDeformation alt="5.000000" ratio="0.454104"/>
 		<RunwayDeformation alt="7.000000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="620.000000" falloff="3.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05113142912534" longitude="-51.43923236938075" altitude="7.07061036210507" latitude2="-30.05117645313571" longitude2="-51.43923546725960" altitude2="7.07049947232008">
+	<Rectangle width="620.000000" falloff="3.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05113142912103" longitude="-51.43923236938046" altitude="7.07061036210507" latitude2="-30.05117645313998" longitude2="-51.43923546725989" altitude2="7.07049947511405">
 		<RunwayDeformation alt="7.000000" ratio="0.000000"/>
 		<RunwayDeformation alt="5.000000" ratio="0.454104"/>
 		<RunwayDeformation alt="7.000000" ratio="1.000000"/>
@@ -959,22 +955,23 @@
 		<RunwayDeformation alt="6.000000" ratio="0.466142"/>
 		<RunwayDeformation alt="6.941024" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="50.000000" falloff="3.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05090891817532" longitude="-51.44363285919935" altitude="7.01244358159602" latitude2="-30.05095393230684" longitude2="-51.44363614130827" altitude2="7.01233145315200">
+	<Rectangle width="50.000000" falloff="3.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05090891817100" longitude="-51.44363285919903" altitude="7.01244358625263" latitude2="-30.05095393231111" longitude2="-51.44363614130858" altitude2="7.01233145687729">
 		<RunwayDeformation alt="7.012442" ratio="0.000000"/>
 		<RunwayDeformation alt="5.000000" ratio="0.496238"/>
 		<RunwayDeformation alt="7.012333" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="620.000000" falloff="3.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05068335374836" longitude="-51.44804769369840" altitude="5.31480533536524" latitude2="-30.05072837557631" longitude2="-51.44805083387632" altitude2="5.31469285767525">
+	<Rectangle width="620.000000" falloff="3.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="-30.05068335373977" longitude="-51.44804769369780" altitude="5.31480533536524" latitude2="-30.05072837558489" longitude2="-51.44805083387693" altitude2="5.31469285860658">
 		<RunwayDeformation alt="5.314806" ratio="0.000000"/>
 		<RunwayDeformation alt="3.000000" ratio="0.497743"/>
 		<RunwayDeformation alt="5.314693" ratio="1.000000"/>
 	</Rectangle>
 	<Airport country="Brazil" state="Rio Grande do Sul" city="Eldorado do Sul" name="Aeroclube de Eldorado do Sul" ident="SIXE" lat="-30.05167183525016" lon="-51.44511011047568" alt="9.50332925774368" magvar="0.100000" trafficScalar="0.100000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<TaxiwayParking index="0" type="RAMP_GA_SMALL" lat="-30.05193183213586" lon="-51.44563856613516" heading="183.389999" radius="5.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="-30.05166386810668" lon="-51.44533535543246" heading="180.000000" radius="5.000000" name="PARKING" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="5" type="RAMP_GA_SMALL" lat="-30.05192224542960" lon="-51.44578731985979" heading="183.389999" radius="5.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="2" type="RAMP_GA_SMALL" lat="-30.05191140749187" lon="-51.44605466094620" heading="183.389999" radius="5.000000" name="PARKING" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="3" type="RAMP_GA_SMALL" lat="-30.05190776506808" lon="-51.44619639223870" heading="183.389999" radius="5.000000" name="PARKING" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="4" type="RAMP_GA_SMALL" lat="-30.05189915352797" lon="-51.44632700317421" heading="183.389999" radius="5.000000" name="PARKING" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="1" type="RAMP_GA_SMALL" lat="-30.05166386810668" lon="-51.44533535543246" heading="180.000000" radius="5.000000" name="PARKING" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<Runway lat="-30.05026469385450" lon="-51.44361286945331" alt="6.18766083382070" heading="93.38999938964844" length="1600.00000000000000" width="30.00000000000000" patternAltitude="223.41998291015625" surface="{00000000-0000-0000-0000-000000000000}" transparent="TRUE" number="11" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
@@ -992,7 +989,7 @@
 				<Vertex lat="-30.05227359644011" lon="-51.44545809543929"/>
 				<Vertex lat="-30.05227631646438" lon="-51.44543126757522"/>
 			</Apron>
-			<Apron surface="{AE14A34B-FB53-44E1-B70F-96F01E163686}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron surface="{AE14A34B-FB53-44E1-B70F-96F01E163686}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.500000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="-30.05215613124518" lon="-51.44546250458164"/>
 				<Vertex lat="-30.05192278738459" lon="-51.44545059188416"/>
 				<Vertex lat="-30.05178401240251" lon="-51.44805082503638"/>
@@ -1018,29 +1015,29 @@
 				<Vertex lat="-30.05168080483343" lon="-51.43552788782574"/>
 				<Vertex lat="-30.05167985211985" lon="-51.43553357377004"/>
 			</Apron>
-			<Apron surface="{AE14A34B-FB53-44E1-B70F-96F01E163686}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
-				<Vertex lat="-30.05164374022635" lon="-51.44498642229597"/>
-				<Vertex lat="-30.05163648499235" lon="-51.44498535934537"/>
-				<Vertex lat="-30.05163182233051" lon="-51.44498467629643"/>
-				<Vertex lat="-30.05162594561279" lon="-51.44498563786437"/>
-				<Vertex lat="-30.05162216254390" lon="-51.44498885027964"/>
-				<Vertex lat="-30.05161900126540" lon="-51.44499425229049"/>
-				<Vertex lat="-30.05161761088511" lon="-51.44500230712317"/>
-				<Vertex lat="-30.05159936989838" lon="-51.44540913107350"/>
-				<Vertex lat="-30.05159890571266" lon="-51.44542038576786"/>
-				<Vertex lat="-30.05160173973699" lon="-51.44542693103018"/>
-				<Vertex lat="-30.05160435478263" lon="-51.44543108344727"/>
-				<Vertex lat="-30.05160890875197" lon="-51.44543253573745"/>
-				<Vertex lat="-30.05170585449024" lon="-51.44544066333419"/>
-				<Vertex lat="-30.05171196570613" lon="-51.44544097298284"/>
-				<Vertex lat="-30.05171714689276" lon="-51.44543699471091"/>
-				<Vertex lat="-30.05171895876750" lon="-51.44543233550401"/>
-				<Vertex lat="-30.05173639960072" lon="-51.44501613130446"/>
-				<Vertex lat="-30.05173640926189" lon="-51.44500681269929"/>
-				<Vertex lat="-30.05173538129503" lon="-51.44500038507524"/>
-				<Vertex lat="-30.05173228967762" lon="-51.44499767457997"/>
-				<Vertex lat="-30.05172714236080" lon="-51.44499579874272"/>
-				<Vertex lat="-30.05171734824410" lon="-51.44499436940328"/>
+			<Apron surface="{37AF92FE-A9CA-4A6A-AA94-5EDAA61AEC86}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.500000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="-30.05161991885496" lon="-51.44499229597274"/>
+				<Vertex lat="-30.05159660107231" lon="-51.44540098845624"/>
+				<Vertex lat="-30.05172356711723" lon="-51.44541025143182"/>
+				<Vertex lat="-30.05174639012312" lon="-51.44500010405771"/>
+			</Apron>
+			<Apron surface="{361CC0CD-4A11-4E23-AAF8-3C1EC1054423}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="-30.05159736282948" lon="-51.44547555129128"/>
+				<Vertex lat="-30.05169851501206" lon="-51.44548295568367"/>
+				<Vertex lat="-30.05169936559320" lon="-51.44547166567021"/>
+				<Vertex lat="-30.05159778485568" lon="-51.44546278402251"/>
+			</Apron>
+			<Apron surface="{361CC0CD-4A11-4E23-AAF8-3C1EC1054423}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="-30.05159682858534" lon="-51.44549417879050"/>
+				<Vertex lat="-30.05169756391068" lon="-51.44550158860847"/>
+				<Vertex lat="-30.05169827400339" lon="-51.44549023927810"/>
+				<Vertex lat="-30.05159725061153" lon="-51.44548141152173"/>
+			</Apron>
+			<Apron surface="{3BADD20B-DB52-4C0A-9693-8079ADEA7178}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1" tiling="25.000000" heading="0.000000" falloff="0.500000" opacity="147" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="-30.05169196542374" lon="-51.44558495208590"/>
+				<Vertex lat="-30.05150556292249" lon="-51.44556983683836"/>
+				<Vertex lat="-30.05151355980938" lon="-51.44543833586859"/>
+				<Vertex lat="-30.05170044292160" lon="-51.44545465236151"/>
 			</Apron>
 			<Apron surface="{AE14A34B-FB53-44E1-B70F-96F01E163686}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="218" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="-30.05085185268922" lon="-51.45178156154991"/>
@@ -1123,6 +1120,45 @@
 			<PaintedLine type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="-30.05190614973611" lon="-51.44646053725425"/>
 				<Vertex lat="-30.05186864462691" lon="-51.44645831011466"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="-30.05171317457556" lon="-51.44507374919458"/>
+				<Vertex lat="-30.05171307835580" lon="-51.44507802568744"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="-30.05170744689567" lon="-51.44519320600227"/>
+				<Vertex lat="-30.05170735067590" lon="-51.44519748249513"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="-30.05170271799244" lon="-51.44533664445797"/>
+				<Vertex lat="-30.05170262177267" lon="-51.44534092095083"/>
+			</PaintedLine>
+			<PaintedLine type="WIDE_WHITE" trueAngle="NONE">
+				<Vertex lat="-30.05173787630147" lon="-51.44479968372723"/>
+				<Vertex lat="-30.05175254404108" lon="-51.44480308874375"/>
+				<Vertex lat="-30.05176642040511" lon="-51.44481098620108"/>
+				<Vertex lat="-30.05178163215339" lon="-51.44482427926153"/>
+				<Vertex lat="-30.05179155203134" lon="-51.44484226783654"/>
+				<Vertex lat="-30.05179659076721" lon="-51.44486449184290"/>
+				<Vertex lat="-30.05179659558807" lon="-51.44488562629255"/>
+				<Vertex lat="-30.05179368574502" lon="-51.44490382988671"/>
+				<Vertex lat="-30.05178522673351" lon="-51.44491903038498"/>
+				<Vertex lat="-30.05177508849366" lon="-51.44493187543438"/>
+				<Vertex lat="-30.05176061678678" lon="-51.44494189626634"/>
+				<Vertex lat="-30.05174559857949" lon="-51.44494779194949"/>
+				<Vertex lat="-30.05173085668391" lon="-51.44494827518175"/>
+				<Vertex lat="-30.05171580948276" lon="-51.44494398900770"/>
+				<Vertex lat="-30.05170018480860" lon="-51.44493642383209"/>
+				<Vertex lat="-30.05168896108407" lon="-51.44492572503067"/>
+				<Vertex lat="-30.05167816365606" lon="-51.44491053638747"/>
+				<Vertex lat="-30.05167141584317" lon="-51.44489089544746"/>
+				<Vertex lat="-30.05166919730116" lon="-51.44487141472529"/>
+				<Vertex lat="-30.05167242337997" lon="-51.44485182234245"/>
+				<Vertex lat="-30.05168106759802" lon="-51.44483363393938"/>
+				<Vertex lat="-30.05169266474585" lon="-51.44481871035937"/>
+				<Vertex lat="-30.05170758609341" lon="-51.44480699093610"/>
+				<Vertex lat="-30.05172016372851" lon="-51.44480139112604"/>
+				<Vertex lat="-30.05173787621705" lon="-51.44479968367153"/>
 			</PaintedLine>
 		</PaintedElements>
 		<ApronEdgeLights/>
