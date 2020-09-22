@@ -6,7 +6,7 @@ Hangar 3D by: [Picada](https://3dwarehouse.sketchup.com/user/0148015134167242350
 
 This airport is free to use. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
 
-Current version: v0.9.4. Image previews of 0.9.3 here: https://imgur.com/a/hkYSkQx
+Current version: v0.9.5. Image previews of 0.9.4 here: https://imgur.com/a/RP0cpCI
 
 Download link: https://github.com/guifarias31/airport-sixe-eldorado/releases/download/0.9.3/airport-sixe-eldorado.rar
 
