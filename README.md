@@ -10,8 +10,12 @@ Current version: v0.9.5. Image previews of 0.9.4 here: https://imgur.com/a/RP0cp
 
 Download link: https://github.com/guifarias31/airport-sixe-eldorado/releases/download/0.9.3/airport-sixe-eldorado.rar
 
-INSTALLATION INSTRUCTIONS
+## How to Install
 
 Drag the folder "airport-sixe-eldorado" into your MSFS\Community directory.
 
-If you want to support me, here my PayPal donation link: http://bit.ly/PaypalFarias
+## Donation
+
+If you want to support me, here my donation link:
+
+[![Donation](https://i.imgur.com/vQyI7N5.png)](https://www.buymeacoffee.com/guifarias31)
