@@ -6,114 +6,14 @@
       "date": 132434085518542441
     },
     {
-      "path": "manifest.json",
-      "size": 270,
-      "date": 132449902367229147
-    },
-    {
-      "path": "scenery/airport-sixe-eldorado.bgl",
+      "path": "scenery/global/scenery/airport-sixe-eldorado.bgl",
       "size": 19066,
-      "date": 132450372093656605
+      "date": 132487625760270139
     },
     {
-      "path": "scenery/AIRPORT-SIXE-POLY.BGL",
+      "path": "scenery/global/scenery/AIRPORT-SIXE-POLY.BGL",
       "size": 4751,
-      "date": 132447031425576093
-    },
-    {
-      "path": "scenery/modelLib.BGL",
-      "size": 1440248,
-      "date": 132443255802683339
-    },
-    {
-      "path": "scenery/TEXTURE/TORRE.DDS.DDS",
-      "size": 174888,
-      "date": 132446649138819171
-    },
-    {
-      "path": "scenery/TEXTURE/TORRE.DDS.DDS.json",
-      "size": 102,
-      "date": 132446649138784165
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/texture.JPG.DDS",
-      "size": 65664,
-      "date": 132446665863172740
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE.JPG.DDS.json",
-      "size": 102,
-      "date": 132443255801453124
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/texture_0.JPG.DDS",
-      "size": 65664,
-      "date": 132446665863172740
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_0.JPG.DDS.json",
-      "size": 102,
-      "date": 132443255801453124
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_1.JPG.DDS",
-      "size": 11064,
-      "date": 132443255801503133
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_1.JPG.DDS.json",
-      "size": 102,
-      "date": 132443255801453124
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/texture_2.JPG.DDS",
-      "size": 65664,
-      "date": 132446665863172740
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_2.JPG.DDS.json",
-      "size": 102,
-      "date": 132443255801453124
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/texture_3.JPG.DDS",
-      "size": 65664,
-      "date": 132446665863172740
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_3.JPG.DDS.json",
-      "size": 102,
-      "date": 132443255801453124
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/texture_4.JPG.DDS",
-      "size": 65664,
-      "date": 132446665863172740
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_4.JPG.DDS.json",
-      "size": 102,
-      "date": 132443255801453124
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_6.JPG.DDS",
-      "size": 43832,
-      "date": 132443261321000566
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_6.JPG.DDS.json",
-      "size": 102,
-      "date": 132443261320990571
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_7.JPG.DDS",
-      "size": 11064,
-      "date": 132443261320725516
-    },
-    {
-      "path": "scenery/TEXTURE/UNTITLED/TEXTURE_7.JPG.DDS.json",
-      "size": 102,
-      "date": 132443261320685509
+      "date": 132487625760652622
     }
   ]
 }

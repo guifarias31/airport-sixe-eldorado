@@ -1,5 +1,7 @@
 <Timestamps>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sixe-eldorado\Packages\mycompany-airport-sixe-eldorado\scenery\airport-sixe-eldorado.bgl" Timestamp="13245037209" NbSourceFile="1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sixe-eldorado\Packages\mycompany-airport-sixe-eldorado\scenery\airport-sixe-poly.bgl" Timestamp="13244703142" NbSourceFile="4"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sixe-eldorado\Packages\mycompany-airport-sixe-eldorado\scenery\airport-sixe-eldorado.bgl" Timestamp="13245037209" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sixe-eldorado\Packages\mycompany-airport-sixe-eldorado\scenery\airport-sixe-poly.bgl" Timestamp="13244703142" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sixe-eldorado\Packages\mycompany-airport-sixe-eldorado\scenery\global\scenery\airport-sixe-eldorado.bgl" Timestamp="13248762576" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sixe-eldorado\Packages\mycompany-airport-sixe-eldorado\scenery\global\scenery\airport-sixe-poly.bgl" Timestamp="13248762576" NbSourceFile="4"/>
 </Timestamps>
 
